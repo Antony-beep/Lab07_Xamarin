@@ -27,6 +27,6 @@ namespace Lab07
         int RemainingChargePercent { get; }
         BatteryStatus Status { get; }
         PowerSource PowerSource { get; }
-    }
 
+    }
 }

@@ -8,7 +8,4 @@ namespace Lab07
     {
         void Speak(string text);
     }
-
-
-
 }
