@@ -11,7 +11,8 @@ namespace Lab07
             InitializeComponent();
 
             //MainPage =  new NavigationPage(new TextToSpeechDemo());
-            MainPage = new NavigationPage(new BatteryDemo());
+            //MainPage = new NavigationPage(new BatteryDemo());
+            MainPage = new NavigationPage(new QRreader());
         }
 
         protected override void OnStart()

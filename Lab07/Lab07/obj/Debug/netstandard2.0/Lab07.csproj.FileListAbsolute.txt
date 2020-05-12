@@ -25,7 +25,7 @@ C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0
 C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
 C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfoInputs.cache
 C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.AssemblyInfo.cs
-C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.dll
 C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0\ref\Lab07.dll
 C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0\Lab07.pdb
+C:\Users\william\source\repos\Lab07_Xamarin\Lab07\Lab07\obj\Debug\netstandard2.0\QRreader.xaml.g.cs
