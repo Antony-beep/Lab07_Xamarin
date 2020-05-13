@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj": {}
+    "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj": {
+    "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj",
         "projectName": "Lab07.iOS",
-        "projectPath": "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj",
-        "packagesPath": "C:\\Users\\william\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\obj\\",
+        "projectPath": "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\Lab07.iOS.csproj",
+        "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\william\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj": {
-                "projectPath": "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj"
+              "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj": {
+                "projectPath": "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj": {
+    "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj",
         "projectName": "Lab07",
-        "projectPath": "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj",
-        "packagesPath": "C:\\Users\\william\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\william\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\obj\\",
+        "projectPath": "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\Lab07.csproj",
+        "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Leonardo\\source\\repos\\Lab07_Xamarin\\Lab07\\Lab07\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\william\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

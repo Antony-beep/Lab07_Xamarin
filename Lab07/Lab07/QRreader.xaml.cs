@@ -19,8 +19,21 @@ namespace Lab07
         }
 
         private async void Scan()
-        { 
+        {
+            var scannerPage = new ZXingScannerPage();
 
+            scannerPage.Title = "Lector de QR";
+            scannerPage.OnScanResult += (result) =>
+            {
+                scannerPage.IsScanning = false;
+                Device.BeginInvokeOnMainThread(() =>
+                {
+                    Navigation.PopAsync();
+                    DisplayAlert("Valor OBtenido", result.Text, "OK");
+                });
+            };
+
+            await Navigation.PushAsync(scannerPage);
         }
 
 
